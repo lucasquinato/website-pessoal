@@ -3,8 +3,7 @@
 /* footer */
 .footer{
     position: relative;
-    background-color: black;
-    color: #fff;
+    background-color: #000;
     overflow: hidden;
 }
 .footer .container{
